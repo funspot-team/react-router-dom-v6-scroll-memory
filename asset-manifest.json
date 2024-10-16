@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-router-dom-v6-scroll-memory/static/css/main.44e0733c.css",
+    "main.js": "/react-router-dom-v6-scroll-memory/static/js/main.7ea97dd8.js",
+    "index.html": "/react-router-dom-v6-scroll-memory/index.html",
+    "main.44e0733c.css.map": "/react-router-dom-v6-scroll-memory/static/css/main.44e0733c.css.map",
+    "main.7ea97dd8.js.map": "/react-router-dom-v6-scroll-memory/static/js/main.7ea97dd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44e0733c.css",
+    "static/js/main.7ea97dd8.js"
+  ]
+}
